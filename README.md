@@ -1,2 +1,2 @@
 # TODO
-Aprendiendo quasar
+Aprendiendo quasar con "Make Apps with Danny"
